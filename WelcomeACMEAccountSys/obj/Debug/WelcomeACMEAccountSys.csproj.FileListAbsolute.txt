@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\obj\Debug\WelcomeACMEAccountSys.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\bin\Debug\WelcomeACMEAccountSys.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\bin\Debug\WelcomeACMEAccountSys.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\bin\Debug\WelcomeACMEAccountSys.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\obj\Debug\WelcomeACMEAccountSys.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeACMEAccountSys\obj\Debug\WelcomeACMEAccountSys.pdb
