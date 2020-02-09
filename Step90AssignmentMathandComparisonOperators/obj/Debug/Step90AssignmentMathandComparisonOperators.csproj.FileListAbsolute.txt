@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\bin\Debug\Step90AssignmentMathandComparisonOperators.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\bin\Debug\Step90AssignmentMathandComparisonOperators.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\bin\Debug\Step90AssignmentMathandComparisonOperators.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\obj\Debug\Step90AssignmentMathandComparisonOperators.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\obj\Debug\Step90AssignmentMathandComparisonOperators.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step90AssignmentMathandComparisonOperators\obj\Debug\Step90AssignmentMathandComparisonOperators.pdb
