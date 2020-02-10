@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\bin\Debug\Step101AssignmentBooleanLogic.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\bin\Debug\Step101AssignmentBooleanLogic.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\bin\Debug\Step101AssignmentBooleanLogic.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\obj\Debug\Step101AssignmentBooleanLogic.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\obj\Debug\Step101AssignmentBooleanLogic.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step101AssignmentBooleanLogic\obj\Debug\Step101AssignmentBooleanLogic.pdb
