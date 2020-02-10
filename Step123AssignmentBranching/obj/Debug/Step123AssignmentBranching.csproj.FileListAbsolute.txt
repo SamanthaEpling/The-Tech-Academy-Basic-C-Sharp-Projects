@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\obj\Debug\Step123AssignmentBranching.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\bin\Debug\Step123AssignmentBranching.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\bin\Debug\Step123AssignmentBranching.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\bin\Debug\Step123AssignmentBranching.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\obj\Debug\Step123AssignmentBranching.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step123AssignmentBranching\obj\Debug\Step123AssignmentBranching.pdb
