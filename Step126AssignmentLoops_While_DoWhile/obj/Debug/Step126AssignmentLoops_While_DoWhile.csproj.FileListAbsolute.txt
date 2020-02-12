@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\bin\Debug\Step126AssignmentLoops_While_DoWhile.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\bin\Debug\Step126AssignmentLoops_While_DoWhile.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\bin\Debug\Step126AssignmentLoops_While_DoWhile.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\obj\Debug\Step126AssignmentLoops_While_DoWhile.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\obj\Debug\Step126AssignmentLoops_While_DoWhile.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step126AssignmentLoops_While_DoWhile\obj\Debug\Step126AssignmentLoops_While_DoWhile.pdb
