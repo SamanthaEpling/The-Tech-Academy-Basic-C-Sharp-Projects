@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\bin\Debug\Step131AssignmentStringFunctions.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\bin\Debug\Step131AssignmentStringFunctions.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\bin\Debug\Step131AssignmentStringFunctions.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\obj\Debug\Step131AssignmentStringFunctions.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\obj\Debug\Step131AssignmentStringFunctions.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step131AssignmentStringFunctions\obj\Debug\Step131AssignmentStringFunctions.pdb
