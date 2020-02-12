@@ -22,11 +22,13 @@ namespace Step126AssignmentLoops_While_DoWhile
                 {
                     case "Lionel":
                         Console.WriteLine("You guessed Lionel. Try again.");
-                        isGuessed = true;
+                        Console.WriteLine("Guess a pet name?:");
+                        name = Console.ReadLine();
                         break;
                     case "Romani":
                         Console.WriteLine("You guessed Romani. Try again.");
-                        isGuessed = true;
+                        Console.WriteLine("Guess a pet name?:");
+                        name = Console.ReadLine();
                         break;
                     case "Hermione":
                         Console.WriteLine("You guessed Hermione.  That is correct!");
@@ -34,7 +36,8 @@ namespace Step126AssignmentLoops_While_DoWhile
                         break;
                     default:
                         Console.WriteLine("While there are many pet names to choose from, you didn't guess right!");
-                        isGuessed = true;
+                        Console.WriteLine("Guess a pet name?:");
+                        name = Console.ReadLine();
                         break;
                 }
             }
