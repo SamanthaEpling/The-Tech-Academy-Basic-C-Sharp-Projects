@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\bin\Debug\Step136AssignmentArraysAndLists.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\bin\Debug\Step136AssignmentArraysAndLists.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\bin\Debug\Step136AssignmentArraysAndLists.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\obj\Debug\Step136AssignmentArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\obj\Debug\Step136AssignmentArraysAndLists.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step136AssignmentArraysAndLists\obj\Debug\Step136AssignmentArraysAndLists.pdb
