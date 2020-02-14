@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\bin\Debug\Step142AssignementIterations.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\bin\Debug\Step142AssignementIterations.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\bin\Debug\Step142AssignementIterations.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\obj\Debug\Step142AssignementIterations.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\obj\Debug\Step142AssignementIterations.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Step142AssignementIterations\obj\Debug\Step142AssignementIterations.pdb
