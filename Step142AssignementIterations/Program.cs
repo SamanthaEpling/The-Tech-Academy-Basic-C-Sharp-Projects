@@ -164,35 +164,40 @@ class Program
 
     //{
     //    List<string> Pets = new List<string>() { "Lionel", "Romani", "Rosie", "Fiona", "Love Bug", "Mister", "Romani" };
-    //    Console.WriteLine("Please type a pet name to see who is on the list: ");
-    //    string chosenName = Console.ReadLine();
     //    bool isPresent = false;
-    //    for (int i = 0; i<Pets.Count; i++)
+    //    do
     //    {
-    //        if (Pets[i] == chosenName)
+    //        Console.WriteLine("Please type a pet name to see who is on the list: ");
+    //        string chosenName = Console.ReadLine();
+
+    //        for (int i = 0; i < Pets.Count; i++)
     //        {
-    //            Console.WriteLine("Congratulations! " + chosenName + " was on the pet list at index(es): " + i);
-    //            isPresent = true;
-    //        }
-    //    }
-    //    if (!isPresent)
-    //    {
-    //        Console.WriteLine("Oh darn, that name is not on our list. Please try again.");
-    //    }
-    //    Console.ReadLine();
+    //            if (Pets[i] == chosenName)
+    //            {
+    //                Console.WriteLine("Congratulations! " + chosenName + " was on the pet list at index(es): " + i);
+    //                isPresent = true;
+    //            }
+    //            else if(Pets[i] != chosenName)
+    //            {
+    //                 Console.WriteLine("Your name " + chosenName + " does not appear at index: " + i);
+    //            }
+    //        }            
+    //        Console.ReadLine();
+    //    }while (isPresent == false);  
     //}
+
 
     //=====Section 11: Selecting and indicating identical strings through iterations:======
 
     //{
     //    List<string> Pets = new List<string>() { "Lionel", "Romani", "Rosie", "Fiona", "Love Bug", "Mister", "Romani", "Fiona" };
     //    List<string> ReplicatePets = new List<string>();
-        
+
     //    foreach (string pet in Pets)
     //    {
-    //        if ( ReplicatePets.Contains(pet))
+    //        if (ReplicatePets.Contains(pet))
     //        {
-    //            Console.WriteLine(pet + " has now already appeared on the list multiple times!");  
+    //            Console.WriteLine(pet + " has now already appeared on the list multiple times!");
     //        }
     //        else
     //        {
