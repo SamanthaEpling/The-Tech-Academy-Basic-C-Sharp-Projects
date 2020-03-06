@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\bin\Debug\StepAssignment147ExceptionHandling.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\bin\Debug\StepAssignment147ExceptionHandling.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\bin\Debug\StepAssignment147ExceptionHandling.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\obj\Debug\StepAssignment147ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\obj\Debug\StepAssignment147ExceptionHandling.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment147ExceptionHandling\obj\Debug\StepAssignment147ExceptionHandling.pdb
