@@ -154,7 +154,7 @@ class Program
     //        if (Pets[i] == chosenName)
     //        {
     //            Console.WriteLine("Congratulations! " + chosenName + " was on the pet list at index(es): " + i);
-    //            isPresent = true;
+    //            ;
     //        }
     //    }
     //    Console.ReadLine();
