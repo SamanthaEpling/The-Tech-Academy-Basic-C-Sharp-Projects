@@ -21,7 +21,7 @@ namespace StepAssignment156_Method
     {
         public static int SquareIt(int givenNumber)
         {
-            return givenNumber ^ 2;
+            return (givenNumber * givenNumber);
         }
     }
 
