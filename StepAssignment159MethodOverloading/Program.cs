@@ -11,9 +11,9 @@ namespace StepAssignment159MethodOverloading
         static void Main(string[] args)
         {
             Console.WriteLine("Please pick your favorite whole number.");
-            int givenNumber = Convert.ToInt32(Console.ReadLine());
+            string givenNumber = Console.ReadLine();
             Console.WriteLine("You chose: " + givenNumber + ".");
-            Console.WriteLine("Press enter to multiply " + givenNumber + " by 10.");
+            Console.WriteLine("Press enter to add 10 to " + givenNumber + ".");
             Console.ReadLine();
             Console.WriteLine(Methods.TimesTen(givenNumber));
 

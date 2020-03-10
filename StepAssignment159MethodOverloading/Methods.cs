@@ -8,9 +8,9 @@ namespace StepAssignment159MethodOverloading
 {
     public class Methods
     {
-        public static int TimesTen(int givenNumber)
+        public static string TimesTen(string givenNumber)
         {
-            return givenNumber * 10;
+            return (givenNumber +" 10");
         }
 
         public static int TimesTen(decimal givenNumber2)
