@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\bin\Debug\StepAssignment164ClassMethods.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\bin\Debug\StepAssignment164ClassMethods.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\bin\Debug\StepAssignment164ClassMethods.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\obj\Debug\StepAssignment164ClassMethods.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\obj\Debug\StepAssignment164ClassMethods.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment164ClassMethods\obj\Debug\StepAssignment164ClassMethods.pdb
