@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\bin\Debug\StepAssignment169ObjectInheritence.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\bin\Debug\StepAssignment169ObjectInheritence.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\bin\Debug\StepAssignment169ObjectInheritence.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\obj\Debug\StepAssignment169ObjectInheritence.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\obj\Debug\StepAssignment169ObjectInheritence.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment169ObjectInheritence\obj\Debug\StepAssignment169ObjectInheritence.pdb
