@@ -16,10 +16,12 @@ namespace StepAssignment176AbstractBaseClasses
             employee.firstName = "Sample";
 
             employee.SayName();
-           
-            IQuittable q = employee;
-            q.Quit(employee);
-            
+
+            employee.Id = 0;
+            employee.Id = 1;
+            bool Same = employee.Id == employee.Id;
+            Convert.ToString(Same);
+            Console.WriteLine("Employee Id's match: " + Same);
             Console.ReadLine();
         }
     }
