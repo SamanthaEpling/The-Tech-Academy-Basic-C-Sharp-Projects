@@ -16,17 +16,17 @@ namespace StepAssignment176AbstractBaseClasses
         }
 
 
-        public static Person operator== (Employee employee, bool Same)
+        public static bool operator== (Employee employee1, Employee employee2)
         {
-            Same = (employee.Id == employee.Id);
-            Convert.ToString(Same);
+            bool Same = true;
+            Same = (employee1.Id == employee2.Id);
             return Same;
         }
 
-        public static Person operator!= (Employee employee, bool Same)
+        public static bool operator!= (Employee employee1, Employee employee2)
         {
-            Same = (employee.Id != employee.Id);
-            Convert.ToString(Same);
+            bool Same = true;
+            Same = (employee1.Id != employee2.Id);
             return Same;
         }
     }

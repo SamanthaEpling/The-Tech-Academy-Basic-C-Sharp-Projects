@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace StepAssignment176AbstractBaseClasses
-    // For StepAssignment179InterfaceClasses
+    // For StepAssignment184Overloading the "==" Comparison Operator
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Employee employee = new Employee();
             employee.lastName = "Student";
@@ -17,11 +17,16 @@ namespace StepAssignment176AbstractBaseClasses
 
             employee.SayName();
 
-            employee.Id = 0;
-            employee.Id = 1;
-            bool Same = employee.Id == employee.Id;
-            Convert.ToString(Same);
-            Console.WriteLine("Employee Id's match: " + Same);
+
+            Employee employee1 = new Employee();
+            Employee employee2 = new Employee();
+
+            employee1.Id = 0;
+
+            employee2.Id = 1;
+            
+            
+            Console.WriteLine("Employee Id's match: " + (employee1 == employee2));
             Console.ReadLine();
         }
     }
