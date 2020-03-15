@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\bin\Debug\StepAssignment197Structs.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\bin\Debug\StepAssignment197Structs.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\bin\Debug\StepAssignment197Structs.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\obj\Debug\StepAssignment197Structs.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\obj\Debug\StepAssignment197Structs.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment197Structs\obj\Debug\StepAssignment197Structs.pdb
