@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\bin\Debug\StepAssignment192Enums.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\bin\Debug\StepAssignment192Enums.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\bin\Debug\StepAssignment192Enums.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\obj\Debug\StepAssignment192Enums.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\obj\Debug\StepAssignment192Enums.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment192Enums\obj\Debug\StepAssignment192Enums.pdb
