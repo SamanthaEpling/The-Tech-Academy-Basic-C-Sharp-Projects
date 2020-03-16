@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\bin\Debug\StepAssignment202LambdaFunctions.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\bin\Debug\StepAssignment202LambdaFunctions.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\bin\Debug\StepAssignment202LambdaFunctions.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\obj\Debug\StepAssignment202LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\obj\Debug\StepAssignment202LambdaFunctions.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment202LambdaFunctions\obj\Debug\StepAssignment202LambdaFunctions.pdb
