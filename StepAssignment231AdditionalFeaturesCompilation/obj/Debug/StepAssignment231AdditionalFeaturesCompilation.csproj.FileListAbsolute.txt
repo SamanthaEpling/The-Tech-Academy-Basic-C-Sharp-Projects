@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\bin\Debug\StepAssignment231AdditionalFeaturesCompilation.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\bin\Debug\StepAssignment231AdditionalFeaturesCompilation.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\bin\Debug\StepAssignment231AdditionalFeaturesCompilation.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\obj\Debug\StepAssignment231AdditionalFeaturesCompilation.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\obj\Debug\StepAssignment231AdditionalFeaturesCompilation.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\obj\Debug\StepAssignment231AdditionalFeaturesCompilation.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment231AdditionalFeaturesCompilation\obj\Debug\StepAssignment231AdditionalFeaturesCompilation.pdb
