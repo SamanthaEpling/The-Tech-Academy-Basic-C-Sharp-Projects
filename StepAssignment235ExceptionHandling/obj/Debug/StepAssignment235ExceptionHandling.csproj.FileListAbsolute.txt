@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\bin\Debug\StepAssignment235ExceptionHandling.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\bin\Debug\StepAssignment235ExceptionHandling.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\bin\Debug\StepAssignment235ExceptionHandling.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\obj\Debug\StepAssignment235ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\obj\Debug\StepAssignment235ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\obj\Debug\StepAssignment235ExceptionHandling.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StepAssignment235ExceptionHandling\obj\Debug\StepAssignment235ExceptionHandling.pdb
