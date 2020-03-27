@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+    <h2>Assignment: MVC Practical Exercise</h2>
+<h3>@ViewBag.Message</h3>
+<h4>Samantha Epling</h4>
+<h5>C# & .NET Framework Course, The Tech Academy</h5>
+<p>
+    The Tech Academy Assignment:<br />
+    MVC PRACTICAL EXERCISE <br />
+    You've been tasked with building an application for generating quotes for car insurance.<br />
+    REQUIREMENTS<br />
+    You must get the following information from the user:<br />
+    <ul>
+        <li>First Name</li>
+        <li>Last Name</li>
+        <li>Email Address</li>
+        <li>Date of Birth</li>
+        <li>Car Year</li>
+        <li>Car Make</li>
+        <li>Car Model</li>
+        <li>If they have ever had a DUI.</li>
+        <li>How many speeding tickets they have.</li>
+        <li>Would they like full coverage or liability?</li>
+    </ul>
+    Use the following rules to calculate a quote:<br />
+    <ul>
+        <li>Start with a base of $50 / month.</li>
+        <li>If the user is under 25, add $25 to the monthly total.</li>
+        <li>If the user is under 18, add $100 to the monthly total.</li>
+        <li>If the user is over 100, add $25 to the monthly total.</li>
+        <li>If the car's year is before 2000, add $25 to the monthly total.</li>
+        <li>If the car's year is after 2015, add $25 to the monthly total.</li>
+        <li>If the car's Make is a Porsche, add $25 to the price.</li>
+        <li>If the car's Make is a Porsche and its model is a 911 Carrera, add an additional $25 to the price.</li>
+        <li>Add $10 to the monthly total for every speeding ticket the user has.</li>
+        <li>If the user has ever had a DUI, add 25% to the total.</li>
+        <li>If it's full coverage, add 50% to the total.</li>
+    </ul>
+    There must also be an Admin view for a site administrator. This page must:
+    <ul>
+        <li>Show all quotes issued, along with the user's first name, last name, and email address.</li>
+    </ul>
+    WHEN YOU UPLOAD YOUR CODE TO GITHUB AND PASTE THE LINK [INTO GITHUB], ALSO BE SURE TO EMAIL YOUR DATABASE .MDF AND .LDF FILES TO YOUR INSTRUCTOR. THESE SHOULD BE IN YOUR PROJECT'S APP_DATA FOLDER.
+</p>
+@DateTime.Now
