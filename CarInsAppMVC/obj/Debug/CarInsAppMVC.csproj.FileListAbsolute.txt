@@ -76,3 +76,4 @@ C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsAp
 C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsAppMVC\obj\Debug\CarInsAppMVC.csproj.CopyComplete
 C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsAppMVC\obj\Debug\CarInsAppMVC.dll
 C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsAppMVC\obj\Debug\CarInsAppMVC.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsAppMVC\obj\Debug\CarInsAppMVC.csprojAssemblyReference.cache

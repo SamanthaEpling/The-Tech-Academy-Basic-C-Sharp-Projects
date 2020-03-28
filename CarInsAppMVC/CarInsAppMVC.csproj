@@ -122,11 +122,13 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\QuoteController.cs" />
+    <Compile Include="Controllers\Quotes.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Quote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\QuotesVM.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -166,6 +168,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Quote\Index.cshtml" />
     <Content Include="Views\Quote\Success.cshtml" />
+    <Content Include="Views\Quote\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

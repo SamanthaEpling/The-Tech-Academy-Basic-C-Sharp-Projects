@@ -18,7 +18,6 @@ namespace CarInsAppMVC.Models
         public string InsType { get; set; }
         public string PresentDUI { get; set; }
         public string NumberSpeedingTickets { get; set; }
-        
-
+        public decimal DerivedQuote { get; set; }
     }
 }

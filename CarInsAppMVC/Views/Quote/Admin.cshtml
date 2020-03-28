@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+}
+
+@using CarInsAppMVC.Models
+@model List<Quote>
+
+<div class="row no-gutters m-3">
+    <h3>Quotes</h3>
+    <br />
+    <br />
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-3">
+                <h5><u>First Name</u></h5>
+            </div>
+            <div class="col-md-3">
+                <h5><u>Last Name</u></h5>
+            </div>
+            <div class="col-md-3">
+                <h5><u>Email Address</u></h5>
+            </div>
+            <div class="col-md-3">
+                <h5><u>Calculated  Insurance Quote per Month</u></h5>
+            </div>
+        </div>
+        @foreach (var quote in Model)
+        {
+        <div class="row">
+            <div class="col-md-3">
+                @quote.FirstName
+            </div>
+            <div class="col-md-3">
+                @quote.LastName
+            </div>
+            <div class="col-md-3">
+                @quote.EmailAddress
+            </div>
+            <div class="col-md-3">
+                $@quote.DerivedQuote
+            </div>
+        </div>
+        }
+      
+    </div>
+</div>
