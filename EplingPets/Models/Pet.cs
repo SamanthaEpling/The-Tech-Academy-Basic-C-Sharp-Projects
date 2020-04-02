@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EplingPets.Models
 {
@@ -11,7 +12,9 @@ namespace EplingPets.Models
         public string PetName { get; set; }
         public int PetAge { get; set; }
         public string PetSex { get; set; }
-        public virtual ICollection<Breed> Breed { get; set; }
-        public virtual ICollection<Species> Species { get; set; }
+        public int BreedId { get; set; }
+        public virtual ICollection<Breed> Breeds { get; set; }
+        public int SpeciesId { get; set; }   
+        public virtual ICollection<Species> Species { get; set; } 
     }
 }

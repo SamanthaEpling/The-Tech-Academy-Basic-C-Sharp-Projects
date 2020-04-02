@@ -13,10 +13,10 @@
 <table class="table">
     <tr>
         <th>
-            Species
+            Species Id#
         </th>
         <th>
-            Pet's Breed
+            Pet's Breed Id#
         </th>
         <th>
             Pet's Name
@@ -34,10 +34,11 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.Species)
+
+            @Html.DisplayFor(modelItem => item.SpeciesId)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Breed)
+            @Html.DisplayFor(modelItem => item.BreedId)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.PetName)
