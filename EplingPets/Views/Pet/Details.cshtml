@@ -1,0 +1,45 @@
+﻿@model EplingPets.Models.Pet
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pet</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Species</dt>
+        <dd>@Html.DisplayFor(model => model.Species)</dd>
+        <dt>Breed</dt>
+        <dd>@Html.DisplayFor(model=> model.Breed)</dd>
+        <dt>
+            Pet's Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PetName)
+        </dd>
+
+        <dt>
+            Age (in years)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PetAge)
+        </dd>
+
+        <dt>
+            Sex of the Pet
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PetSex)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PetId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

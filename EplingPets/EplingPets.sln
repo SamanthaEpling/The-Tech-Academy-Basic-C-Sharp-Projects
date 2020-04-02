@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EplingPets", "EplingPets.csproj", "{A36067FA-DE91-4575-8ED7-68CF2E1BA912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36067FA-DE91-4575-8ED7-68CF2E1BA912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36067FA-DE91-4575-8ED7-68CF2E1BA912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36067FA-DE91-4575-8ED7-68CF2E1BA912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36067FA-DE91-4575-8ED7-68CF2E1BA912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C0A78E-D059-4DD6-B6B3-A298D058FA7E}
+	EndGlobalSection
+EndGlobal

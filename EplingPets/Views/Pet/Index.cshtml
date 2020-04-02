@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EplingPets.Models.Pet>
+
+
+@{
+    ViewBag.Title = "Pet List";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Species
+        </th>
+        <th>
+            Pet's Breed
+        </th>
+        <th>
+            Pet's Name
+        </th>
+        <th>
+            Age (in years)
+        </th>
+        <th>
+            Sex of the Pet
+        </th>
+        <th></th>
+
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Species)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Breed)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PetName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PetAge)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PetSex)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PetId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PetId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PetId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,47 @@
+﻿@model IEnumerable<EplingPets.Models.Breed>
+@{
+    ViewBag.Title = "Breed";
+}
+
+<h2>Breed</h2>
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Pet's Name
+        </th>
+        <th>
+            Age (in years)
+        </th>
+        <th>
+            Sex of the Pet
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedCountryOfOrigin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BreedDescription)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BreedId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.BreedId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.BreedId })
+            </td>
+        </tr>
+    }
+
+</table>
